@@ -1,0 +1,63 @@
+nav
+{
+    background-color: #009688;
+}
+.search
+{
+    background-color: #009688;
+    margin: 0px;
+    margin-top: -40px;
+}
+#search-head
+{
+    padding: 15px;
+    padding-top: 45px;
+    padding-bottom: 0px;
+}
+.search .container input
+{
+    padding: 5px;
+    margin-bottom: 60px;
+}
+.features
+{
+    margin-top:-13px;
+    background-color: #f4f4f4;
+}
+.container .row .col .card-panel
+{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.container .row .col .card-panel span i
+{
+    display: block;
+}
+.popular-places h4
+{
+    margin-bottom: 20px;
+}
+.follow h4{
+    padding: 10px;
+    padding-top: 30px;
+}
+.follow .center
+{
+    padding-bottom: 30px ;
+}
+.follow .center a
+{
+    padding: 0px 10px;
+}
+.contact .container .row .col .card-panel
+{
+    margin-bottom: 10px;
+}
+.contact .container .row .col .card-panel .input-field
+{
+    padding-top: 22px;
+}
+footer
+{
+    padding-bottom: 45px;
+}
